@@ -1,0 +1,2 @@
+- This operator restricts search results to the specified site or domain.
+- **Example** : [**games site: www.certificatedhacker.com**] query gives information on games from the certificatedhacker site.

@@ -1,0 +1,2 @@
+- This operator displays websites that are similar or related to the URL specified.
+- **Example** : [related: www.microsoft.com] provides the Google search engine results page with websites similar to microsoft.com.

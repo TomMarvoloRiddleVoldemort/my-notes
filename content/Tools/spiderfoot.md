@@ -1,0 +1,57 @@
+### Command to start
+---
+```
+python3 ./sf.py -l 127.0.0.1:50
+```
+
+### Scans
+---
+```
+[[Affiliate - Email Address]]
+[[Affiliate - IP Address]]
+[[Affiliate - Internet Name]]
+[[Affiliate Description - Abstract]]
+[[Affiliate Description - Category]]
+[[App Store Entry]]
+[[BGP AS Membership]]
+[[Co-Hosted Site]]
+[[Co-Hosted Site - Domain Name]]
+[[Company Name]]
+[[Country Name]]
+[[DNSLookup]]
+[[Description - Abstract]]
+[[Description - Category]]
+[[Domain Name]]
+[[Domain Name (Parent)]]
+[[Email Address]]
+[[HTTP Headers]]
+[[HTTP Status Code]]
+[[Hash]]
+[[Hosting Provider]]
+[[Human Name]]
+[[IP Address]]
+[[Internet Name]]
+[[Legal Entity Identifier]]
+[[Linked URL - External]]
+[[Linked URL - Internal]]
+[[Netblock Membership]]
+[[Non-Standard HTTP Header]]
+[[Open TCP Port]]
+[[Physical Address]]
+[[Physical Coordinates]]
+[[Physical Location]]
+[[Raw Data from RIRs/APIs]]
+[[Raw File Meta Data]]
+[[SSL Certificate - Issued by]]
+[[SSL Certificate - Issued to]]
+[[SSL Certificate - Raw Data]]
+[[SSL Certificate Host Mismatch]]
+[[Search Engine Web Content]]
+[[Similar Domain]]
+[[URL (Purely Static)]]
+[[Web Analytics]]
+[[Web Content]]
+[[Web Content Type]]
+[[Web Server]]
+[[Whois]]
+```

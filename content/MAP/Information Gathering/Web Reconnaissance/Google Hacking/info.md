@@ -1,0 +1,2 @@
+- This operator finds information for the specified web page.
+- **Example** : [info: google.com] provides information about the national hotel directory GotHotel.com home page.

@@ -1,0 +1,2 @@
+- This operator restricts results to only the pages containing all the query terms specified in the URL.
+- **Example** : [**allinurl: google career**] query returns only pages containing the words "google" and "career" in the URL.

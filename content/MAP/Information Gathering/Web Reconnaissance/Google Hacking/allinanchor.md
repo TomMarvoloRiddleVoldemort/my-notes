@@ -1,0 +1,2 @@
+- This operator restricts results to only the pages containing all query terms specified in the anchor text on links to the pages.
+- **Example** : [allinanchor: best cloud service provider] query returns only pages for which the anchor text on links to the pages contains the works "best", "cloud", "service", and "provider".

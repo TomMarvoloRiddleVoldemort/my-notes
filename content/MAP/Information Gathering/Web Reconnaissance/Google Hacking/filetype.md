@@ -1,0 +1,2 @@
+- This operator allows you to search for results based on a file extention.
+- **Example** : [jasmine.jpg] will provide jpg files based on jasmine.

@@ -1,0 +1,2 @@
+- This operator restricts results to only the pages containing the specified term in the title.
+- **Example** : [**malware detection intitle:help**] query returns only pages that have the term "help" in the title, and the terms "malware" and "detection" anywhere within the page.

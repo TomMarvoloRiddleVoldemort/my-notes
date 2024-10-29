@@ -1,0 +1,2 @@
+- This operator restricts result to only the pages containing query terms specified in the anchor text on links to the pages.
+- **Example** : [**Anti-virus inanchor:Norton**] query returns only pages with anchor text on links to the pages containing the word "Norton" and the page containing the word "Anti-virus."

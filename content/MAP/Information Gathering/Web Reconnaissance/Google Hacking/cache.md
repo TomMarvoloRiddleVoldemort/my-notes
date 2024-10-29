@@ -1,0 +1,2 @@
+- This operator displays Google's cached version of a web page instead of the current version of the web page.
+- **Example** : [cache:www.eff.org] will show Google's cached version of the Electronic Frontier Foundation home page.
