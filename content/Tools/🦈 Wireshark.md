@@ -1,7 +1,7 @@
 
 # 🦈 Wireshark or Tcpdump
 
-## ~={green}Wireshark=~
+## Wireshark
 
 ```bash
 wireshark -i eth1
@@ -63,12 +63,12 @@ ip.src != xxx.xxx.xxx.xxx && ip.dst != xxx.xxx.xxx.xxx && sip
 
 ```
 
-### ~={green}Filters Cheat Sheet=~
+### Filters Cheat Sheet
 
 ![[Pasted image 20241018162859.png]]
 
 ![[Pasted image 20241018162908.png]]
-### ~={green}TShark=~
+### TShark
 
 ```bash
 tshark -D
@@ -154,7 +154,7 @@ https://www.comparitech.com/net-admin/wireshark-cheat-sheet/
 ```
 
 
-## ~={green}**Password sniffing using Wireshark**=~
+## **Password sniffing using Wireshark**
 
 **Attacker**
 

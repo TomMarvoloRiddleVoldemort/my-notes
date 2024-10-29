@@ -6,24 +6,24 @@ a> \-m → **message** you want to hide
 >
 > cipher.txt → **target file**
 
-#### ~={green}Windows=~
+#### Windows
 ---
-##### ~={yellow}Hide  Text=~
+##### Hide  Text
 ```bash
 snow.exe -C -p 1234 -m "Secret Message" original.txt cipher.txt
 ```
-##### ~={yellow}Unhide the hidden text=~
+##### Unhide the hidden text
 ```bash
 snow.exe -C -p 1234 cipher.txt
 ```
 
-#### ~={green}Linux=~
+#### Linux
 ---
-##### ~={yellow}Hide  Text=~
+##### Hide  Text
 ```bash
 ./snow -C -m "Secret Text Goes Here!" -p "magic" original.txt cipher.txt 
 ```
-##### ~={yellow}Unhide the hidden text=~
+##### Unhide the hidden text
 ```bash
 ./snow -C -p "magic" cipher.txt
 ```

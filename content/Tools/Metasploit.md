@@ -1,4 +1,4 @@
-## ~={green}Upgrading shells to Meterpreter=~
+## Upgrading shells to Meterpreter
 ---
 If you have an existing session, either Meterpreter, an SSH, or a basic command shell - you can open a new Meterpreter session with:
 
